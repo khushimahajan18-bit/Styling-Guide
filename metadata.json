@@ -1,0 +1,6 @@
+{
+  "name": "Patikh Jewels: AI Fashion & Jewellery Styling Studio",
+  "description": "Premium digital styling studio and Pinterest-inspired fashion discovery platform for Patikh Jewels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
